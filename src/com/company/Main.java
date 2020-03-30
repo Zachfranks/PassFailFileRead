@@ -42,16 +42,7 @@ public class Main {
 
             for (int i = 0; i < arrayListWeight.size(); i++) {
                 sumWeight = sumWeight + arrayListWeight.get(i);
-            }
-
-            /*
-            if (arrayListWeight == 100) {
-
-            } else {
-                System.out.println("enter a sum that is = 100");
-            }
-
-             */
+            }      
 
             input = reader.nextLine();
 
